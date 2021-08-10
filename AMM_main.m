@@ -303,7 +303,7 @@ tracking = sim('AMM_tracking');
 
 disp('End of simulation');
 track_extime = toc/60; % tracking execution time
-disp('Tracking simulation completed. Execution time:');
+disp('Tracking simulation completed. Execution time [minutes]:');
 disp(track_extime)
 
 disp('End of simulations');
